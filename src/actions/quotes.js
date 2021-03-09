@@ -26,7 +26,7 @@ export const upvoteQuote = (quoteId) => {
     return {
         type: 'UPVOTE_QUOTE',
 
-        quoteId: quoteId, 
+        quoteId: quoteId
         // votes: votes
         
         
